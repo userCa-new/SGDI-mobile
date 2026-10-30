@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="login_screen_bg">#F0F0F0</color>
+    <color name="login_card">#FDFDFD</color>
+    <color name="login_black">#111111</color>
+    <color name="login_text">#333333</color>
+    <color name="login_hint">#8A8A8A</color>
+    <color name="login_input_bg">#EEEEEE</color>
+    <color name="login_focus">#F5A25D</color>
+    <color name="login_link">#1F4FE0</color>
+</resources>

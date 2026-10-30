@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="payment_orange">#F77518</color>
+    <color name="payment_pending">#E3C593</color>
+    <color name="payment_confirmed">#7AC255</color>
+    <color name="payment_remove">#E5484D</color>
+</resources>
